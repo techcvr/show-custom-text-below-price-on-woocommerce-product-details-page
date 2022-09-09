@@ -1,0 +1,1 @@
+# show-custom-text-below-price-on-woocommerce-product-details-page
